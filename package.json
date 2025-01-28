@@ -1,0 +1,15 @@
+{
+	"name": "whatsappengagementhandler",
+	"version": "1.0.0",
+	"description": "Whatsapp chat bot to handle clients engagement automatically.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Malik_Shan",
+	"license": "ISC",
+	"dependencies": {
+		"qrcode-terminal": "^0.12.0",
+		"whatsapp-web.js": "^1.26.0"
+	}
+}
